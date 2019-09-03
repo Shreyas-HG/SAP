@@ -1,2 +1,2 @@
 # SAP
-SAP Training
+SAP UI5 Training 
